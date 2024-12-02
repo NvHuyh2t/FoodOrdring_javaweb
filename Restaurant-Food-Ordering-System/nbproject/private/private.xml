@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/assets/js/bootstrap.min.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/assets/myjs/slideshow.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/UserHome.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/AddItem.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/ContactUs.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/constants/GlobalConstants.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/AddCategory.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/Model/Item.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/controller/CookController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/Model/BillDetails.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/DAO/DBConnect.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/Home.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/controller/TableController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/Model/Category.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/ViewCategory.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/ViewBill.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/Model/Login.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/OrderStatus.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/ViewItems.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/DAO/UserService.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/Model/Bill.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/ContactUs.html</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/controller/BaseController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/LoginPage.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/src/DAO/CookServices.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Online%20Food%20Order%20System+Database/Restaurant-Food-Ordering-System/WebContent/ViewBillToCook.jsp</file>
+        </group>
+    </open-files>
+</project-private>
